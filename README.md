@@ -1,4 +1,4 @@
-# 💰 FinanceAI Pro – AI-Powered Personal Finance Dashboard
+# FinanceAI Pro – AI-Powered Personal Finance Dashboard
 
 FinanceAI Pro is an advanced, AI-powered personal finance management platform built using **Streamlit**, designed to empower individuals to take control of their finances through data-driven insights, intelligent budgeting, predictive analytics, and a sleek, modern UI.
 
@@ -35,6 +35,7 @@ FinanceAI Pro is an advanced, AI-powered personal finance management platform bu
 - Dark mode styling with premium UI and animations
 
 ---
+*<img width="1920" height="921" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/e2e4158f-65c6-47e1-8e37-e5412bca07e0" />*
 
 ## 🖥️ Tech Stack
 
@@ -46,6 +47,7 @@ FinanceAI Pro is an advanced, AI-powered personal finance management platform bu
 - **Libraries:** pandas, numpy, plotly, scikit-learn, sqlite3, textblob
 
 ---
+*<img width="1920" height="927" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/64122c54-d368-4777-adc8-a5314ea5f446" />*
 
 ## 🚀 Getting Started
 
@@ -66,6 +68,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+*<img width="1920" height="945" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/01734977-0cba-4146-9a6f-c7b0e4f6bff2" />*
 
 ---
 
@@ -73,20 +76,15 @@ streamlit run app.py
 
 ```
 financeai-pro/
-├── app.py                # Main Streamlit dashboard
-├── requirements.txt      # Project dependencies
-├── README.md             # Project documentation
-├── finance.db            # SQLite database (created on first run)
-└── assets/               # (Optional) Static files or images
+├── finance_assistant.py              
+├── requirements.txt     
+├── README.md             
+├── finance.db            
 ```
 
----
 
-## 📸 Screenshots
+*<img width="1920" height="929" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/88c7420b-71a7-47be-b0ef-ea3fba2c1375" />*
 
-> *(Add screenshots of dashboard home, analytics, and chatbot here)*
-
----
 
 ## 🧠 Future Improvements
 
@@ -98,20 +96,20 @@ financeai-pro/
 
 ---
 
+*<img width="1920" height="932" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/457ac20d-f766-49ba-9ef3-6c942ef12d63" />*
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request.
 
 ---
 
+*<img width="1920" height="932" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/6eb991be-baf5-421e-9e14-888f3099d285" />*
+
 ## 📬 Contact
 
-**Developer:** [Your Name]  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**Email:** yourname@email.com
+**Developer:** [Dhruv Achar]  
+**LinkedIn:** (https://www.linkedin.com/in/dhruv-achar-569521221/)  
+**Email:** dhruv.achar2004@gmail.com
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
