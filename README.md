@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 ### ▶️ Run the App
 ```bash
-streamlit run app.py
+streamlit run ML_Finance_Assistant.py
 ```
 *<img width="1920" height="945" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/01734977-0cba-4146-9a6f-c7b0e4f6bff2" />*
 
