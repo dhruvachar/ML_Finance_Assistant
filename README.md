@@ -54,8 +54,8 @@ FinanceAI Pro is an advanced, AI-powered personal finance management platform bu
 ### 🔧 Prerequisites
 Ensure Python 3.7+ is installed. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/financeai-pro.git
-cd financeai-pro
+git clone https://github.com/dhruvachar/ML_Finance_Assistant.git
+cd ML_Finance_Assistant
 ```
 
 ### 📦 Install Dependencies
